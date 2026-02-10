@@ -21,7 +21,7 @@ The analysis is divided into two phases:
  
 Core Findings
 
-1. The Death of "Cheap Shipping" (E-Commerce)The end of the de minimis exemption on August 29, 2025, fundamentally broke the business model for direct-from-China retail.
+1. The Death of "Cheap Shipping" (E-Commerce). The end of the de minimis exemption on August 29, 2025, fundamentally broke the business model for direct-from-China retail.
 - Finding: E-commerce stocks (ONLN) underperformed the S&P 500 by 4.2% within 7 days of the announcement.
 - Thesis: The 2025 tariffs ended the "Direct-to-Consumer" era of global trade, forcing a shift back to traditional bulk warehousing.
 2. The Manufacturing "K-Shaped" Recovery
@@ -33,4 +33,4 @@ The "Liberation Day" tariffs function as a regressive consumption tax.
 - Finding: The average U.S. household lost $3,800 in annual purchasing power by 2026.
 - Thesis: High pass-through rates (reaching 24% for applied tariffs by October 2025) confirm that U.S. consumers, not foreign firms, absorb the majority of the tariff burden.
 
-The findings can be run on python, which visualises the aftermatch of the "Liberation Day" tarriffs and thereby predict the 2026 and 2027 recovery trend.
+The findings can be run on python, which visualises the aftermatch of the "Liberation Day" tarriffs and thereby predict the 2026 and 2027 recovery trend. The PNG files are illustrations of the results the code produced.
