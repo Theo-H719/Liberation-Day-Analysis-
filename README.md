@@ -11,9 +11,9 @@ Methodology
 The analysis is divided into two phases:
 1. Event Study (Historical):Analyzing the Cumulative Abnormal Returns (CAR) of five key sectors during the "Liberation Day" announcement window (April 2–10, 2025).
    
-2. Structural Forecast (Predictive): A 2-year projection (2026–2027) using a Substitution & Pass-through Model. This model accounts for
+2. Structural Forecast (Predictive): A 2-year projection (2026–2027) using a Substitution & Pass-through Model. This model accounts for:
 
-- :The De Minimis Shock: The closure of the $800 duty-free loophole (EO 14256).
+- The De Minimis Shock: The closure of the $800 duty-free loophole (EO 14256).
   
 - Price Pass-through: The 61–80% transmission of border costs to consumer retail prices.
   
