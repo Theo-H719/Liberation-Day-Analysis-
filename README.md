@@ -1,6 +1,6 @@
 # Liberation-Day-Analysis-
-The "Liberation Day" Divergence Analysis of the 2025–2027 U.S. 
-Project Overview -  Reciprocal Tariff Regime
+
+Project Overview -  The "Liberation Day" Divergence Analysis of the 2025–2027 U.S. 
 
 This project replicates the market shock of April 2, 2025 "Liberation Day", when the U.S. administration implemented Executive Order 14257. Unlike previous sector-specific hikes (e.g., May 2024), these tariffs introduced a 10% universal baseline coupled with "Reciprocal Rates" (up to 54% for China) based on bilateral trade deficits.
 
